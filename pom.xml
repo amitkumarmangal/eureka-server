@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.business</groupId>
-        <artifactId>Bom</artifactId>
+        <artifactId>bom</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../Bom/pom.xml</relativePath>
+        <relativePath>../bom/pom.xml</relativePath>
     </parent>
     <artifactId>EurekaServer</artifactId>
     <version>1.0-SNAPSHOT</version>
